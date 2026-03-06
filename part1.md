@@ -16,7 +16,7 @@
 
 ## Setup
 
-- Clone [the starter repository](./) into a separate folder.
+- Clone [the starter repository](https://github.com/tx00-resources-en/w8-extra-activity) into a separate folder.
 
 ---
 
